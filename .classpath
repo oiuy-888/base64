@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/LS/libs/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11.jar" sourcepath="C:/Users/ccxadmin/AppData/Local/Temp/.org.sf.feeling.decompiler1543504250176/source/commons-codec-1.11-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
